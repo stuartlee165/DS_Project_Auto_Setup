@@ -1,7 +1,7 @@
 DS_Project_Auto_Setup
 ==============================
 
-Creates a local repository system for data science project using cookiecutter. Established virtual environment and installs commonly used DS libraries. Creates GitHub repo.
+Creates a local repository system for data science project using cookiecutter. Establishes a virtual environment, installs commonly used DS libraries and creates a Jupiter Notebook Kernel. Creates a GitHub repo.
 
 Project Organization
 ------------
