@@ -27,6 +27,7 @@ cd $project_name
 virtual_env_name="env_$project_name"
 python3 -m venv $virtual_env_name
 python3 -m ipykernel install --user --name=$virtual_env_name
+python3 -m pip install -U scikit-learn
 source $virtual_env_name/bin/activate
 
 
